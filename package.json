@@ -1,0 +1,26 @@
+{
+  "name": "cypress_sample_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.11.0",
+    "cypress-file-upload": "^4.0.7",
+    "cypress-social-logins": "^1.3.4",
+    "cypress-xpath": "^1.6.0",
+    "gmail-tester": "^1.2.5",
+    "googleapis": "^52.1.0",
+    "puppeteer": "^4.0.0"
+  },
+  "dependencies": {
+    "@fyreware/mysql-data-api": "^0.1.1",
+    "aws-sdk": "^2.711.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.0"
+  }
+}
